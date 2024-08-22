@@ -1,0 +1,205 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/ZuBB/zubb.github.io/commit/a6865251bfddf9271a3dec3f5a8e2ac05090ee80\"><strong>a</strong>6865251bfddf9271a3dec3f5a8e2ac05090ee80</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/ZuBB/portage3/commit/abb936070918cd7d7607cf36453273e89e3afb56\"><strong>ab</strong>b936070918cd7d7607cf36453273e89e3afb56</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/8d44efb498c1485062405037a3a142c4de39066c\">8d44efb</a>: chore(task): fix typo in debug message",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/85fda4be4666fdb9913b442b8b89131589241a59\">85fda4b</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/a5084fe6f7ddd0d03124be8d64e8f3192d6395a4\">a5084fe</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 2 times.",
+    "body": "- <a href=\"https://github.com/ZuBB/ash/commit/18e442ac1f21dead02130dd77fd3bed79a2e7a69\">18e442ac1f21<strong>dead</strong>02130dd77fd3bed79a2e7a69</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/956703ca7493adbe8d2f45dead837cc185161cdc\">956703ca7493adbe8d2f45<strong>dead</strong>837cc185161cdc</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/portage3/commit/16b3b91f08dfb9ff51408f2c307539a8341c115b\">16b3b91</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/afee90e0ed3f37bd6ae204ba563a6022849c2095\">afee90e</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/f46d28945ab37f12f577ae1d85f5fb156a1aba1a\">f46d289</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/7889e95eacb2cc03d6b9d655e4b75c77071f95f1\">7889e95</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/43fabd90c43142288280d6d7a4d8ac150c00d330\">43fabd9</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/5c3f5643a723b1b488445f0b0e12e4d60e18d7df\">5c3f564</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/4bf2981c3f4afd6f8ee0fe91b0b1f18963892442\">4bf2981</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/d4609827f85c74b56eef9daa8f442e5c9bf8704d\">d460982</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/3628f5a64602b0a79210c0624af734d277d312ee\">3628f5a</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/a84499d07ce5987a7a96fd668a1265d6d0b84815\">a84499d</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"of\".",
+    "body": "My favorite commit message words are:\n\n1. of (used 1452 times)\n2. in (used 1024 times)\n3. autoupdate (used 767 times)\n4. configs (used 744 times)\n5. 'dotfiles' (used 741 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/d8cb9d51679b712f3b2299f228fb42ec0e09025a\">d8cb9d5</a>: fix(nodemail): send all files from output folder\n- <a href=\"https://github.com/ZuBB/ash/commit/2f612c388dd7b509d41a4092263afc765865ef2e\">2f612c3</a>: fix(grunt config): allow multiple locations for task files",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/52f39b0b999a77c33716447c7d75d63214956af3\">52f39b0</a>: fix(build): make jshint happy\n- <a href=\"https://github.com/ZuBB/ash/commit/f6c78a7a195abb7f961ba0ecbea6ee01e5dea7a2\">f6c78a7</a>: fix(build): make lint use last commited file\n- <a href=\"https://github.com/ZuBB/ash/commit/e5286e3cf874c5c32ace767c227b4bfb20ba3b25\">e5286e3</a>: fix(build): add workaround to make build work on Windoze",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 8 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/f273ea7b5836becb50e8a3b8a872f9f6130e6e03\">f273ea7</a>: fix(io): do loggin in safe manner\n- <a href=\"https://github.com/ZuBB/ash/commit/8c6cee14d0fe9ca6ee0fdf2f0f7647c338b81543\">8c6cee1</a>: fix(dispatcher): add implicit namespace class before calling it func\n- <a href=\"https://github.com/ZuBB/ash/commit/e5b029147543a9c58d427f6b8d2a93ac47fccee4\">e5b0291</a>: fix(task): fix(task): do full set of checks for unknown/empty inputs\n\nThis change fixes a bug that was introduced by 7dfaa2b changeset.\nIn it we tried to fix another bug :)\nNow we cover two options\n- <a href=\"https://github.com/ZuBB/ash/commit/5c2266083b4c2c236926337302e40e6e4bfc2444\">5c22660</a>: fix(build): enhance pattern for including attachemnts in emails\n- <a href=\"https://github.com/ZuBB/ash/commit/d3dc56ddd49a89f32b2d814aca2c4ac8dd59f6af\">d3dc56d</a>: fix(build): state name of minify target\n- <a href=\"https://github.com/ZuBB/ash/commit/6243ab54058375979aaa3580a6a0c2ef9fd50965\">6243ab5</a>: fix(core & Host): drop direct call of Host functions in core\n- <a href=\"https://github.com/ZuBB/ash/commit/7dfaa2b50b2baf626373b55e58214221d8e0e90e\">7dfaa2b</a>: fix(task): do a proper check of unknown input\n- <a href=\"https://github.com/ZuBB/ash/commit/0224fd852d8f28dd3939189fb33c1a59df995a2e\">0224fd8</a>: fix(dispatcher-core): make method production, since we rely on it",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/c4mk/commit/33438c23f44dfd244d0a61e87b958280414f6a62\">33438c2</a>: fix: make submit button perform subm,it action\n- <a href=\"https://github.com/ZuBB/c4mk/commit/794472b659a47855e458b6354cf86df40c2c071a\">794472b</a>: fix: move submit button out of form\n- <a href=\"https://github.com/ZuBB/c4mk/commit/3c6745e35f487a4ed4485313ca460963e5439c49\">3c6745e</a>: fix: drop useless fields from form\n- <a href=\"https://github.com/ZuBB/c4mk/commit/f6581fd2600e9166814e3d6efa0db6a653cf4969\">f6581fd</a>: fix: add more tuning of styling\n- <a href=\"https://github.com/ZuBB/c4mk/commit/d31fc7eca70cdedc2fbcff2a54ca5fa5281f5357\">d31fc7e</a>: fix: add some styling\n- <a href=\"https://github.com/ZuBB/c4mk/commit/b4eef2273ec41bd8778977716076036ae5b2b533\">b4eef22</a>: fix: connect all parts of form together",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/e1ee3601f5b3fa9161d42be9fdb8252f9867929c\">e1ee360</a>: fix: add fallback for ints in redis config\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/64c0deb436bbc019d547b6ffc39d02bfbd991c9e\">64c0deb</a>: fix: simplify a password validation\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/f70517eaf256a3adebb06babe255d942adcec2ca\">f70517e</a>: fix: address typo\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/e335481928dee7d29fa3bf418908b5c9da3e43a5\">e335481</a>: fix: improve validation messages\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/5dc1680507489b33782a3b343531cceddfd3e7c6\">5dc1680</a>: fix: address TODO",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ms-demo/commit/f58153c21faef83873fddab8db1f54acd8320ec2\">f58153c</a>: fix: unify usage of 'stopGame' method\n- <a href=\"https://github.com/ZuBB/ms-demo/commit/721546d9b7c88e708e28c9af6cba3dd80dc56ba2\">721546d</a>: fix: address styling issues\n- <a href=\"https://github.com/ZuBB/ms-demo/commit/56f6deac59b0fc70b97acc3066681ce63699ef9f\">56f6dea</a>: fix: prevent appearance of negative seconds\n- <a href=\"https://github.com/ZuBB/ms-demo/commit/67228255ba1065a7e469f9b2deb313b22c11856d\">6722825</a>: fix: show win/loose message",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/6ec9476a917d78ee953c753afd0aca596e87b2e7\">6ec9476</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/Qix-/color/issues/46\">#46</a>: '.mix()' method fails to work with cloned color\n- <a href=\"https://github.com/atom/tree-view/issues/991\">#991</a>: Failed to activate the tree-view package\n- <a href=\"https://github.com/bitwarden/android/issues/2208\">#2208</a>: Android app replaces value for non login field",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "old-issue-2",
+    "tier": 2,
+    "desc": "I closed an issue that was open for 2 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/werein/x-editable-rails/issues/34\">#34</a>: several fields in dialog\n- <a href=\"https://github.com/TypeStrong/atom-typescript/issues/1255\">#1255</a>: tsserver crashed at OS level",
+    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
+  },
+  {
+    "id": "old-issue-3",
+    "tier": 3,
+    "desc": "I closed an issue that was open for 3 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/tusbar/grunt-subgrunt/issues/10\">#10</a>: Suggestion with 2 features\n- <a href=\"https://github.com/highcharts/highcharts/issues/5542\">#5542</a>: [q] is there any option that turns off repeating of items in legend when pagination is on?",
+    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
+  },
+  {
+    "id": "old-issue-5",
+    "tier": 5,
+    "desc": "I closed an issue that was open for 5 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/mCzolko/grunt-downloadfile/issues/8\">#8</a>: [FYI]bugs/gaps in this plugin\n- <a href=\"https://github.com/DefinitelyTyped/DefinitelyTyped/issues/8814\">#8814</a>: '_.intersectionBy()' method is stated as not chainable",
+    "image": "https://my-badges.github.io/my-badges/old-issue-5.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/dpashkevich/grunt-jsduck/issues/10\">#10</a>: Handling of jsduck error codes other than 127\n- <a href=\"https://github.com/joemccann/dillinger/issues/303\">#303</a>: [question]getting latest version of the doc after start\n- <a href=\"https://github.com/RichiH/vcsh/issues/157\">#157</a>: [FR] please add 'quiet' option\n- <a href=\"https://github.com/t9md/atom-vim-mode-plus-ex-mode/issues/15\">#15</a>: [FR] please add support of replace\n- <a href=\"https://github.com/dwarvesf/homebrew-tap/issues/4\">#4</a>: Complaints of `brew doctor`\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/DefinitelyTyped/DefinitelyTyped/pull/46619\">#46619</a>: add definition for 'registerBlockCollection()' method",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/c4mk/commit/33438c23f44dfd244d0a61e87b958280414f6a62\">33438c2</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/794472b659a47855e458b6354cf86df40c2c071a\">794472b</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/3c6745e35f487a4ed4485313ca460963e5439c49\">3c6745e</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/f6581fd2600e9166814e3d6efa0db6a653cf4969\">f6581fd</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/d31fc7eca70cdedc2fbcff2a54ca5fa5281f5357\">d31fc7e</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/dc70854b50a1d0aecdcbf19b2b7ff448b5ee4146\">dc70854</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/d5956a1bf08a682eaa1320747f74f51b07846dbb\">d5956a1</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/a05a314ce23d91b719371e3a6cb6534d55e44a99\">a05a314</a>\n- <a href=\"https://github.com/ZuBB/ms-demo/commit/018ea65bc02e09186a3fdda4ba3acf3b56cb1618\">018ea65</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/60c29663dc8465e7cae91685bef12b791b200062\">60c2966</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/47f7c5f40603a787e3849be43a10a00f2375a5fe\">47f7c5f</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/a7695d80c380a91c5350fd666a77af8b368ea510\">a7695d8</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ede7ec415a584f0addb44b71ac57a38dbd127798\">ede7ec4</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/5edf62b6194d49114f4fe571d043d136a5a1b97d\">5edf62b</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/d84938ecc12eef5df4952cf6c6c041a1cdf0f640\">d84938e</a>\n- <a href=\"https://github.com/ZuBB/ms-demo/commit/f58153c21faef83873fddab8db1f54acd8320ec2\">f58153c</a>\n- <a href=\"https://github.com/ZuBB/ms-demo/commit/721546d9b7c88e708e28c9af6cba3dd80dc56ba2\">721546d</a>\n- <a href=\"https://github.com/ZuBB/ms-demo/commit/56f6deac59b0fc70b97acc3066681ce63699ef9f\">56f6dea</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ac8d6f1347bee89ec9c7afa999abee4151c6b45e\">ac8d6f1</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/805889bc6584074ff7940ad40a8cf9e38239ff81\">805889b</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/aee953e90de7f9601988bcd8426edda90ce19c81\">aee953e</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ac36d9dc860c385eab596adbb45a5c2cc2b52a03\">ac36d9d</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
