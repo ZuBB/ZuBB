@@ -4,8 +4,8 @@
 
 My favorite commit message words are:
 
-1. of (used 1501 times)
-2. in (used 1072 times)
+1. of (used 1503 times)
+2. in (used 1073 times)
 3. autoupdate (used 815 times)
 4. 'dotfiles' (used 785 times)
 5. configs (used 767 times)
