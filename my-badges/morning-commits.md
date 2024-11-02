@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/Andykrvua/anex/commit/64d313211fa7e6932266cb22f83f4a87baf9d402">64d3132</a>
+- <a href="https://github.com/Andykrvua/anex/commit/fe7cdfedc2dc01621d5661f31de608a4efe0c147">fe7cdfe</a>
+- <a href="https://github.com/Andykrvua/anex/commit/2aa42b0ccc8ebae0e38d668ffd936467d2052c99">2aa42b0</a>
 - <a href="https://github.com/ZuBB/dotfiles/commit/0e5ed71f5ca9f143bfed1f4bce2fe651c2215d25">0e5ed71</a>
 - <a href="https://github.com/ZuBB/dotfiles/commit/09f24c7616932a5d722647b242229fb7ef485932">09f24c7</a>
 - <a href="https://github.com/ZuBB/dotfiles/commit/a0192dfd9e06744eda9092973b3ecd49cfb1003d">a0192df</a>
-- <a href="https://github.com/ZuBB/dotfiles/commit/774c2301dc1d7b766d08097ba9471393a651b103">774c230</a>
-- <a href="https://github.com/ZuBB/custom-app-icons/commit/9f200916975d6713e0ddd40a3e205f06f03a5064">9f20091</a>
-- <a href="https://github.com/ZuBB/dotfiles/commit/11c924a078aec5a39893c7968fdb2a5e1c0af8ba">11c924a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
