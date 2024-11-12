@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/ZuBB/c4mk/commit/33438c23f44dfd244d0a61e87b958280414f6a62">33438c2</a>: fix: make submit button perform subm,it action
-- <a href="https://github.com/ZuBB/c4mk/commit/794472b659a47855e458b6354cf86df40c2c071a">794472b</a>: fix: move submit button out of form
-- <a href="https://github.com/ZuBB/c4mk/commit/3c6745e35f487a4ed4485313ca460963e5439c49">3c6745e</a>: fix: drop useless fields from form
-- <a href="https://github.com/ZuBB/c4mk/commit/f6581fd2600e9166814e3d6efa0db6a653cf4969">f6581fd</a>: fix: add more tuning of styling
-- <a href="https://github.com/ZuBB/c4mk/commit/d31fc7eca70cdedc2fbcff2a54ca5fa5281f5357">d31fc7e</a>: fix: add some styling
-- <a href="https://github.com/ZuBB/c4mk/commit/b4eef2273ec41bd8778977716076036ae5b2b533">b4eef22</a>: fix: connect all parts of form together
+- <a href="https://github.com/ZuBB/portage3/commit/5fce5a9161bcb8746d54cf78ea03d5375d6d8cc2">5fce5a9</a>: fix(tasks): correct order of params in log method
+- <a href="https://github.com/ZuBB/portage3/commit/97ca80e1abfd21012ea03ace6c6b944114839842">97ca80e</a>: fix(tasks): correct order of params in log method
+- <a href="https://github.com/ZuBB/portage3/commit/c95db16112ac1f024aadbac579535f24bff7f128">c95db16</a>: fix(tasks): fix 'profiles' task
+- <a href="https://github.com/ZuBB/portage3/commit/afd2fa803bffa80edf978cb813c318abf68132fe">afd2fa8</a>: fix(keyword): rename duplicating key
+- <a href="https://github.com/ZuBB/portage3/commit/746c93af030a064db86ecaebafd663b1e380a1c2">746c93a</a>: fix(tasks): fix indent + file presense check
+- <a href="https://github.com/ZuBB/portage3/commit/d80dd1504e3f934f7a5d39ae63094a8a9736bac3">d80dd15</a>: fix(tasks): added check for metadata file presence
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

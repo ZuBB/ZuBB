@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. of (used 1519 times)
-2. in (used 1089 times)
-3. autoupdate (used 830 times)
+1. of (used 1249 times)
+2. in (used 980 times)
+3. autoupdate (used 821 times)
 4. 'dotfiles' (used 800 times)
-5. configs (used 767 times)
+5. configs (used 763 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
