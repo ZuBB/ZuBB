@@ -52,14 +52,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/portage3/commit/3628f5a64602b0a79210c0624af734d277d312ee\">3628f5a</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/a84499d07ce5987a7a96fd668a1265d6d0b84815\">a84499d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/4bf2981c3f4afd6f8ee0fe91b0b1f18963892442\">4bf2981</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/d4609827f85c74b56eef9daa8f442e5c9bf8704d\">d460982</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/3628f5a64602b0a79210c0624af734d277d312ee\">3628f5a</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/a84499d07ce5987a7a96fd668a1265d6d0b84815\">a84499d</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"of\".",
-    "body": "My favorite commit message words are:\n\n1. of (used 1249 times)\n2. in (used 980 times)\n3. autoupdate (used 821 times)\n4. 'dotfiles' (used 800 times)\n5. configs (used 763 times)",
+    "body": "My favorite commit message words are:\n\n1. of (used 1519 times)\n2. in (used 1089 times)\n3. autoupdate (used 830 times)\n4. 'dotfiles' (used 800 times)\n5. configs (used 767 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "fix-6",
     "tier": 5,
     "desc": "I did 6 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/portage3/commit/5fce5a9161bcb8746d54cf78ea03d5375d6d8cc2\">5fce5a9</a>: fix(tasks): correct order of params in log method\n- <a href=\"https://github.com/ZuBB/portage3/commit/97ca80e1abfd21012ea03ace6c6b944114839842\">97ca80e</a>: fix(tasks): correct order of params in log method\n- <a href=\"https://github.com/ZuBB/portage3/commit/c95db16112ac1f024aadbac579535f24bff7f128\">c95db16</a>: fix(tasks): fix 'profiles' task\n- <a href=\"https://github.com/ZuBB/portage3/commit/afd2fa803bffa80edf978cb813c318abf68132fe\">afd2fa8</a>: fix(keyword): rename duplicating key\n- <a href=\"https://github.com/ZuBB/portage3/commit/746c93af030a064db86ecaebafd663b1e380a1c2\">746c93a</a>: fix(tasks): fix indent + file presense check\n- <a href=\"https://github.com/ZuBB/portage3/commit/d80dd1504e3f934f7a5d39ae63094a8a9736bac3\">d80dd15</a>: fix(tasks): added check for metadata file presence",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/c4mk/commit/33438c23f44dfd244d0a61e87b958280414f6a62\">33438c2</a>: fix: make submit button perform subm,it action\n- <a href=\"https://github.com/ZuBB/c4mk/commit/794472b659a47855e458b6354cf86df40c2c071a\">794472b</a>: fix: move submit button out of form\n- <a href=\"https://github.com/ZuBB/c4mk/commit/3c6745e35f487a4ed4485313ca460963e5439c49\">3c6745e</a>: fix: drop useless fields from form\n- <a href=\"https://github.com/ZuBB/c4mk/commit/f6581fd2600e9166814e3d6efa0db6a653cf4969\">f6581fd</a>: fix: add more tuning of styling\n- <a href=\"https://github.com/ZuBB/c4mk/commit/d31fc7eca70cdedc2fbcff2a54ca5fa5281f5357\">d31fc7e</a>: fix: add some styling\n- <a href=\"https://github.com/ZuBB/c4mk/commit/b4eef2273ec41bd8778977716076036ae5b2b533\">b4eef22</a>: fix: connect all parts of form together",
     "image": "https://my-badges.github.io/my-badges/fix-6.png"
   },
   {
@@ -178,14 +178,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0cf48a9623761521e11c81a13d201b5ba2ffaec9\">0cf48a9</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/3f417a3f3cf4024098e13983bc800d57cf797035\">3f417a3</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/bfd0ad342f83401206db4927b8f21c65cf8613d7\">bfd0ad3</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/dc70854b50a1d0aecdcbf19b2b7ff448b5ee4146\">dc70854</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/107418c621a8ddc976154438dd07d05b36177113\">107418c</a>\n- <a href=\"https://github.com/ZuBB/ZuBB/commit/7f6369fe337d13c51f225ceb5a3ff35d713769ab\">7f6369f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0cf48a9623761521e11c81a13d201b5ba2ffaec9\">0cf48a9</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/3f417a3f3cf4024098e13983bc800d57cf797035\">3f417a3</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/bfd0ad342f83401206db4927b8f21c65cf8613d7\">bfd0ad3</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/33438c23f44dfd244d0a61e87b958280414f6a62\">33438c2</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/794472b659a47855e458b6354cf86df40c2c071a\">794472b</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/3c6745e35f487a4ed4485313ca460963e5439c49\">3c6745e</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0e5ed71f5ca9f143bfed1f4bce2fe651c2215d25\">0e5ed71</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/09f24c7616932a5d722647b242229fb7ef485932\">09f24c7</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/a0192dfd9e06744eda9092973b3ecd49cfb1003d\">a0192df</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/774c2301dc1d7b766d08097ba9471393a651b103\">774c230</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/11c924a078aec5a39893c7968fdb2a5e1c0af8ba\">11c924a</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/8419c3b2e63437738191aee1c7d4e327ce2a9d0f\">8419c3b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0e5ed71f5ca9f143bfed1f4bce2fe651c2215d25\">0e5ed71</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/09f24c7616932a5d722647b242229fb7ef485932\">09f24c7</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/a0192dfd9e06744eda9092973b3ecd49cfb1003d\">a0192df</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/774c2301dc1d7b766d08097ba9471393a651b103\">774c230</a>\n- <a href=\"https://github.com/ZuBB/custom-app-icons/commit/9f200916975d6713e0ddd40a3e205f06f03a5064\">9f20091</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/11c924a078aec5a39893c7968fdb2a5e1c0af8ba\">11c924a</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -199,7 +199,7 @@
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ac8d6f1347bee89ec9c7afa999abee4151c6b45e\">ac8d6f1</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/aee953e90de7f9601988bcd8426edda90ce19c81\">aee953e</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ac36d9dc860c385eab596adbb45a5c2cc2b52a03\">ac36d9d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ac8d6f1347bee89ec9c7afa999abee4151c6b45e\">ac8d6f1</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/805889bc6584074ff7940ad40a8cf9e38239ff81\">805889b</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/aee953e90de7f9601988bcd8426edda90ce19c81\">aee953e</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ac36d9dc860c385eab596adbb45a5c2cc2b52a03\">ac36d9d</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]

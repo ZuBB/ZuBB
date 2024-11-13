@@ -5,6 +5,7 @@
 Commits:
 
 - <a href="https://github.com/ZuBB/dotfiles/commit/ac8d6f1347bee89ec9c7afa999abee4151c6b45e">ac8d6f1</a>
+- <a href="https://github.com/ZuBB/c4mk/commit/805889bc6584074ff7940ad40a8cf9e38239ff81">805889b</a>
 - <a href="https://github.com/ZuBB/dotfiles/commit/aee953e90de7f9601988bcd8426edda90ce19c81">aee953e</a>
 - <a href="https://github.com/ZuBB/dotfiles/commit/ac36d9dc860c385eab596adbb45a5c2cc2b52a03">ac36d9d</a>
 
