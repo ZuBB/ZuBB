@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"of\".",
-    "body": "My favorite commit message words are:\n\n1. of (used 1528 times)\n2. in (used 1098 times)\n3. autoupdate (used 839 times)\n4. 'dotfiles' (used 809 times)\n5. configs (used 767 times)",
+    "body": "My favorite commit message words are:\n\n1. of (used 1529 times)\n2. in (used 1099 times)\n3. autoupdate (used 840 times)\n4. 'dotfiles' (used 810 times)\n5. configs (used 767 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -208,5 +208,12 @@
     "desc": "I committed on the Halloween! Boo!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/bff0597c575068fd9961368a594b5b51059c0ed7\">bff0597</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/e9acdc4d3312fe9c1c741e0118ff5067fef1f317\">e9acdc4</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/c64e1ec95b893771dddc7b8f78f7239f98ee5216\">c64e1ec</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/9a8ed1ac16c48191f4dd0769253b3ed65131b771\">9a8ed1a</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/62b636c017f8a16048a29928dfde31c4d0afcf89\">62b636c</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/a75131c4db2f608bb3cb621c4638facacd5cb36e\">a75131c</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "thumbs-up",
+    "tier": 0,
+    "desc": "I have received a lot of thumbs up 👍 reactions!",
+    "body": "- [27 thumbs ups](https://github.com/TypeStrong/atom-typescript/issues/1108#issuecomment-275689556)\n- [24 thumbs ups](https://github.com/eslint-community/eslint-plugin-security/issues/26#issuecomment-612886359)\n- [9 thumbs ups](https://github.com/TypeStrong/atom-typescript/issues/1317#issuecomment-321228643)\n- [5 thumbs ups](https://github.com/TypeStrong/atom-typescript/issues/1474)\n- [5 thumbs ups](https://github.com/bitwarden/clients/issues/1270)\n- [5 thumbs ups](https://github.com/atom/tree-view/issues/796#issuecomment-244946889)\n- [4 thumbs ups](https://github.com/lodash/lodash/issues/852#issuecomment-360984652)\n- [3 thumbs ups](https://github.com/atom/fuzzy-finder/issues/270)\n- [3 thumbs ups](https://github.com/TypeStrong/atom-typescript/issues/1288)\n- [3 thumbs ups](https://github.com/es-analysis/plato/issues/142#issuecomment-236840771)",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up.png"
   }
 ]
