@@ -34,6 +34,7 @@
 <a href="my-badges/midnight-commits.md"><img src="https://my-badges.github.io/my-badges/midnight-commits.png" alt="I commit at midnight." title="I commit at midnight." width="64"></a>
 <a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
 <a href="my-badges/thumbs-up.md"><img src="https://my-badges.github.io/my-badges/thumbs-up.png" alt="I have received a lot of thumbs up 👍 reactions!" title="I have received a lot of thumbs up 👍 reactions!" width="64"></a>
+<a href="my-badges/thumbs-up-10.md"><img src="https://my-badges.github.io/my-badges/thumbs-up-10.png" alt="I got more than 10 thumbs up." title="I got more than 10 thumbs up." width="64"></a>
 <!-- my-badges end -->
 
 ![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=ZuBB.visitor-badge)

@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"of\".",
-    "body": "My favorite commit message words are:\n\n1. of (used 1529 times)\n2. in (used 1099 times)\n3. autoupdate (used 840 times)\n4. 'dotfiles' (used 810 times)\n5. configs (used 767 times)",
+    "body": "My favorite commit message words are:\n\n1. of (used 1531 times)\n2. in (used 1101 times)\n3. autoupdate (used 842 times)\n4. 'dotfiles' (used 812 times)\n5. configs (used 767 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -215,5 +215,12 @@
     "desc": "I have received a lot of thumbs up 👍 reactions!",
     "body": "- [27 thumbs ups](https://github.com/TypeStrong/atom-typescript/issues/1108#issuecomment-275689556)\n- [24 thumbs ups](https://github.com/eslint-community/eslint-plugin-security/issues/26#issuecomment-612886359)\n- [9 thumbs ups](https://github.com/TypeStrong/atom-typescript/issues/1317#issuecomment-321228643)\n- [7 thumbs ups](https://github.com/pahen/madge/pull/321)\n- [5 thumbs ups](https://github.com/TypeStrong/atom-typescript/issues/1474)\n- [5 thumbs ups](https://github.com/bitwarden/clients/issues/1270)\n- [5 thumbs ups](https://github.com/atom/tree-view/issues/796#issuecomment-244946889)\n- [4 thumbs ups](https://github.com/lodash/lodash/issues/852#issuecomment-360984652)\n- [3 thumbs ups](https://github.com/atom/fuzzy-finder/issues/270)\n- [3 thumbs ups](https://github.com/TypeStrong/atom-typescript/issues/1288)",
     "image": "https://my-badges.github.io/my-badges/thumbs-up.png"
+  },
+  {
+    "id": "thumbs-up-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs up.",
+    "body": "* <a href=\"https://github.com/TypeStrong/atom-typescript/issues/1108#issuecomment-275689556\">27 👍</a>\n* <a href=\"https://github.com/eslint-community/eslint-plugin-security/issues/26#issuecomment-612886359\">24 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   }
 ]
