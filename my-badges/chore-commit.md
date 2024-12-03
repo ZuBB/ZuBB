@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ZuBB/ash/commit/8d44efb498c1485062405037a3a142c4de39066c">8d44efb</a>: chore(task): fix typo in debug message
+- <a href="https://github.com/ZuBB/tailwindcss-source-wrapper/commit/80f8cdc31a8e770ad7c7b0fabcfac4856d537ac1">80f8cdc</a>: chore: remove 'arg'. now for sure
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

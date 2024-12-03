@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/ZuBB/ash/commit/52f39b0b999a77c33716447c7d75d63214956af3">52f39b0</a>: fix(build): make jshint happy
-- <a href="https://github.com/ZuBB/ash/commit/f6c78a7a195abb7f961ba0ecbea6ee01e5dea7a2">f6c78a7</a>: fix(build): make lint use last commited file
-- <a href="https://github.com/ZuBB/ash/commit/e5286e3cf874c5c32ace767c227b4bfb20ba3b25">e5286e3</a>: fix(build): add workaround to make build work on Windoze
+- <a href="https://github.com/ZuBB/c4mk/commit/28c545bf1d1670442804f0e676fde8e895dcfab7">28c545b</a>: fix: correct input for back wheels
+- <a href="https://github.com/ZuBB/c4mk/commit/a366a9cf786a1dc9e07fc8381165f297e1c244a1">a366a9c</a>: fix: add more l10n changes
+- <a href="https://github.com/ZuBB/c4mk/commit/1e219e8756327666bf1ca8f94f8bad88c8512774">1e219e8</a>: fix: drop labels for product/price inputs
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

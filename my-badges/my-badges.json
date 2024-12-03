@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/ZuBB/zubb.github.io/commit/a6865251bfddf9271a3dec3f5a8e2ac05090ee80\"><strong>a</strong>6865251bfddf9271a3dec3f5a8e2ac05090ee80</a>",
+    "body": "- <a href=\"https://github.com/ZuBB/portage3/commit/a5e0eccb333f52928c43ee7c10a7d7edb50541c7\"><strong>a</strong>5e0eccb333f52928c43ee7c10a7d7edb50541c7</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -17,7 +17,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/8d44efb498c1485062405037a3a142c4de39066c\">8d44efb</a>: chore(task): fix typo in debug message",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/tailwindcss-source-wrapper/commit/80f8cdc31a8e770ad7c7b0fabcfac4856d537ac1\">80f8cdc</a>: chore: remove 'arg'. now for sure",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -59,21 +59,21 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"of\".",
-    "body": "My favorite commit message words are:\n\n1. of (used 1531 times)\n2. in (used 1101 times)\n3. autoupdate (used 842 times)\n4. 'dotfiles' (used 812 times)\n5. configs (used 767 times)",
+    "body": "My favorite commit message words are:\n\n1. of (used 1532 times)\n2. in (used 1102 times)\n3. autoupdate (used 843 times)\n4. 'dotfiles' (used 813 times)\n5. configs (used 767 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/d8cb9d51679b712f3b2299f228fb42ec0e09025a\">d8cb9d5</a>: fix(nodemail): send all files from output folder\n- <a href=\"https://github.com/ZuBB/ash/commit/2f612c388dd7b509d41a4092263afc765865ef2e\">2f612c3</a>: fix(grunt config): allow multiple locations for task files",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/tailwindcss-source-wrapper/commit/62db50d0d53dc7ec7ff98c9aeae1679abc37ee5e\">62db50d</a>: fix: change package name\n- <a href=\"https://github.com/ZuBB/tailwindcss-source-wrapper/commit/d44e530cadac9bab2fe2ffd4930eb6569c7c0d91\">d44e530</a>: fix: address issue with 'bin' param in package.json",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/52f39b0b999a77c33716447c7d75d63214956af3\">52f39b0</a>: fix(build): make jshint happy\n- <a href=\"https://github.com/ZuBB/ash/commit/f6c78a7a195abb7f961ba0ecbea6ee01e5dea7a2\">f6c78a7</a>: fix(build): make lint use last commited file\n- <a href=\"https://github.com/ZuBB/ash/commit/e5286e3cf874c5c32ace767c227b4bfb20ba3b25\">e5286e3</a>: fix(build): add workaround to make build work on Windoze",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/c4mk/commit/28c545bf1d1670442804f0e676fde8e895dcfab7\">28c545b</a>: fix: correct input for back wheels\n- <a href=\"https://github.com/ZuBB/c4mk/commit/a366a9cf786a1dc9e07fc8381165f297e1c244a1\">a366a9c</a>: fix: add more l10n changes\n- <a href=\"https://github.com/ZuBB/c4mk/commit/1e219e8756327666bf1ca8f94f8bad88c8512774\">1e219e8</a>: fix: drop labels for product/price inputs",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
@@ -124,34 +124,6 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/6ec9476a917d78ee953c753afd0aca596e87b2e7\">6ec9476</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "old-issue-1",
-    "tier": 1,
-    "desc": "I closed an issue that was open for a year",
-    "body": "Issues:\n\n- <a href=\"https://github.com/Qix-/color/issues/46\">#46</a>: '.mix()' method fails to work with cloned color\n- <a href=\"https://github.com/atom/tree-view/issues/991\">#991</a>: Failed to activate the tree-view package\n- <a href=\"https://github.com/bitwarden/android/issues/2208\">#2208</a>: Android app replaces value for non login field",
-    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
-  },
-  {
-    "id": "old-issue-2",
-    "tier": 2,
-    "desc": "I closed an issue that was open for 2 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/werein/x-editable-rails/issues/34\">#34</a>: several fields in dialog\n- <a href=\"https://github.com/TypeStrong/atom-typescript/issues/1255\">#1255</a>: tsserver crashed at OS level",
-    "image": "https://my-badges.github.io/my-badges/old-issue-2.png"
-  },
-  {
-    "id": "old-issue-3",
-    "tier": 3,
-    "desc": "I closed an issue that was open for 3 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/tusbar/grunt-subgrunt/issues/10\">#10</a>: Suggestion with 2 features\n- <a href=\"https://github.com/highcharts/highcharts/issues/5542\">#5542</a>: [q] is there any option that turns off repeating of items in legend when pagination is on?",
-    "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
-  },
-  {
-    "id": "old-issue-5",
-    "tier": 5,
-    "desc": "I closed an issue that was open for 5 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/mCzolko/grunt-downloadfile/issues/8\">#8</a>: [FYI]bugs/gaps in this plugin\n- <a href=\"https://github.com/DefinitelyTyped/DefinitelyTyped/issues/8814\">#8814</a>: '_.intersectionBy()' method is stated as not chainable",
-    "image": "https://my-badges.github.io/my-badges/old-issue-5.png"
   },
   {
     "id": "polite-coder",
@@ -210,17 +182,24 @@
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   },
   {
-    "id": "thumbs-up",
-    "tier": 0,
-    "desc": "I have received a lot of thumbs up 👍 reactions!",
-    "body": "- [27 thumbs ups](https://github.com/TypeStrong/atom-typescript/issues/1108#issuecomment-275689556)\n- [24 thumbs ups](https://github.com/eslint-community/eslint-plugin-security/issues/26#issuecomment-612886359)\n- [9 thumbs ups](https://github.com/TypeStrong/atom-typescript/issues/1317#issuecomment-321228643)\n- [7 thumbs ups](https://github.com/pahen/madge/pull/321)\n- [5 thumbs ups](https://github.com/TypeStrong/atom-typescript/issues/1474)\n- [5 thumbs ups](https://github.com/bitwarden/clients/issues/1270)\n- [5 thumbs ups](https://github.com/atom/tree-view/issues/796#issuecomment-244946889)\n- [4 thumbs ups](https://github.com/lodash/lodash/issues/852#issuecomment-360984652)\n- [3 thumbs ups](https://github.com/atom/fuzzy-finder/issues/270)\n- [3 thumbs ups](https://github.com/TypeStrong/atom-typescript/issues/1288)",
-    "image": "https://my-badges.github.io/my-badges/thumbs-up.png"
-  },
-  {
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
     "body": "* <a href=\"https://github.com/TypeStrong/atom-typescript/issues/1108#issuecomment-275689556\">27 👍</a>\n* <a href=\"https://github.com/eslint-community/eslint-plugin-security/issues/26#issuecomment-612886359\">24 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/RichiH/vcsh/issues/157\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 2 my own repositories.",
+    "body": "- <a href=\"https://github.com/ZuBB/dotfiles\">ZuBB/dotfiles</a>\n- <a href=\"https://github.com/ZuBB/tailwindcss-source-wrapper\">ZuBB/tailwindcss-source-wrapper</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]

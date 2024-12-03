@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/ZuBB/ash/commit/d8cb9d51679b712f3b2299f228fb42ec0e09025a">d8cb9d5</a>: fix(nodemail): send all files from output folder
-- <a href="https://github.com/ZuBB/ash/commit/2f612c388dd7b509d41a4092263afc765865ef2e">2f612c3</a>: fix(grunt config): allow multiple locations for task files
+- <a href="https://github.com/ZuBB/tailwindcss-source-wrapper/commit/62db50d0d53dc7ec7ff98c9aeae1679abc37ee5e">62db50d</a>: fix: change package name
+- <a href="https://github.com/ZuBB/tailwindcss-source-wrapper/commit/d44e530cadac9bab2fe2ffd4930eb6569c7c0d91">d44e530</a>: fix: address issue with 'bin' param in package.json
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
