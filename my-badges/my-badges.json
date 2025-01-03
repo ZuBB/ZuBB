@@ -198,8 +198,8 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/ZuBB/dotfiles\">ZuBB/dotfiles</a>\n- <a href=\"https://github.com/ZuBB/tailwindcss-source-wrapper\">ZuBB/tailwindcss-source-wrapper</a>",
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/ZuBB/dotfiles\">ZuBB/dotfiles</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
