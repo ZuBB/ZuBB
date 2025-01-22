@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"autoupdate\".",
-    "body": "My favorite commit message words are:\n\n1. autoupdate (used 884 times)\n2. 'dotfiles' (used 850 times)\n3. configs (used 767 times)\n4. added (used 314 times)\n5. new (used 218 times)",
+    "body": "My favorite commit message words are:\n\n1. autoupdate (used 885 times)\n2. 'dotfiles' (used 851 times)\n3. configs (used 767 times)\n4. added (used 314 times)\n5. new (used 218 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -150,7 +150,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0cf48a9623761521e11c81a13d201b5ba2ffaec9\">0cf48a9</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/3f417a3f3cf4024098e13983bc800d57cf797035\">3f417a3</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/bfd0ad342f83401206db4927b8f21c65cf8613d7\">bfd0ad3</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/33438c23f44dfd244d0a61e87b958280414f6a62\">33438c2</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/794472b659a47855e458b6354cf86df40c2c071a\">794472b</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/3c6745e35f487a4ed4485313ca460963e5439c49\">3c6745e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/caae71618e8d4f4b3b8b9f200626de9ed031a1fd\">caae716</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0cf48a9623761521e11c81a13d201b5ba2ffaec9\">0cf48a9</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/3f417a3f3cf4024098e13983bc800d57cf797035\">3f417a3</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/bfd0ad342f83401206db4927b8f21c65cf8613d7\">bfd0ad3</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/33438c23f44dfd244d0a61e87b958280414f6a62\">33438c2</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/794472b659a47855e458b6354cf86df40c2c071a\">794472b</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
