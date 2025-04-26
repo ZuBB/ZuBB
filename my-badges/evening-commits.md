@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/ZuBB/dotfiles/commit/f8a092586d1d743f48bf3f54afae39918f4e5501">f8a0925</a>
+- <a href="https://github.com/ZuBB/dotfiles/commit/9563c3bf9f8004a0a6bc0df7cc8f67de2d0e52ae">9563c3b</a>
+- <a href="https://github.com/ZuBB/dotfiles/commit/7d408b19d669c1b5f01cf25871ff5b86e9746200">7d408b1</a>
 - <a href="https://github.com/ZuBB/dotfiles/commit/93601852b5459f8a36c2e897fe273cf3eff6838f">9360185</a>
 - <a href="https://github.com/ZuBB/custom-app-icons/commit/ecd3cf4950a018575edd8f0dfaa1dc4ee7c75a86">ecd3cf4</a>
 - <a href="https://github.com/ZuBB/custom-app-icons/commit/ab271718938b26cef04557bb516747038af1c38f">ab27171</a>
-- <a href="https://github.com/ZuBB/custom-app-icons/commit/3a7cc6cd3f860322b386dc8f5c27d82699b49381">3a7cc6c</a>
-- <a href="https://github.com/ZuBB/dotfiles/commit/a68bbd58076c74fd136452a87d16ff4251838f7d">a68bbd5</a>
-- <a href="https://github.com/ZuBB/dotfiles/commit/f6ef3cdba383e2a1f277a2c15f1f414101a802c2">f6ef3cd</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
