@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. autoupdate (used 984 times)
-2. 'dotfiles' (used 944 times)
+1. autoupdate (used 994 times)
+2. 'dotfiles' (used 954 times)
 3. configs (used 767 times)
 4. added (used 314 times)
-5. new (used 218 times)
+5. content (used 218 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
