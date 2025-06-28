@@ -3,6 +3,7 @@
 <br><br>
 
 * <a href="https://github.com/RichiH/vcsh/issues/157">👍</a>
+* <a href="https://github.com/git/git/pull/2004">👍</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
