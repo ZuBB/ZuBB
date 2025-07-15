@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"autoupdate\".",
-    "body": "My favorite commit message words are:\n\n1. autoupdate (used 1018 times)\n2. 'dotfiles' (used 978 times)\n3. configs (used 767 times)\n4. added (used 314 times)\n5. content (used 242 times)",
+    "body": "My favorite commit message words are:\n\n1. autoupdate (used 1020 times)\n2. 'dotfiles' (used 980 times)\n3. configs (used 767 times)\n4. added (used 314 times)\n5. content (used 244 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/2cd81f39583a207edabe0575f9cfb3a51db38e20\">2cd81f3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/4cb6e721ba4ca6ba800863114028a750f28e2f4b\">4cb6e72</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {

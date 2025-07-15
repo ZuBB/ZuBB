@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ZuBB/dotfiles/commit/2cd81f39583a207edabe0575f9cfb3a51db38e20">2cd81f3</a>
+- <a href="https://github.com/ZuBB/dotfiles/commit/4cb6e721ba4ca6ba800863114028a750f28e2f4b">4cb6e72</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
