@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"autoupdate\".",
-    "body": "My favorite commit message words are:\n\n1. autoupdate (used 1035 times)\n2. 'dotfiles' (used 995 times)\n3. configs (used 767 times)\n4. added (used 314 times)\n5. content (used 259 times)",
+    "body": "My favorite commit message words are:\n\n1. autoupdate (used 1037 times)\n2. 'dotfiles' (used 997 times)\n3. configs (used 767 times)\n4. added (used 314 times)\n5. content (used 261 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -150,7 +150,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0a18cfeff408adb423f4be0fdec342dfa2456098\">0a18cfe</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0105c53bd8f0104c1bbd227de462b87ef688a02b\">0105c53</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/caae71618e8d4f4b3b8b9f200626de9ed031a1fd\">caae716</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0cf48a9623761521e11c81a13d201b5ba2ffaec9\">0cf48a9</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/3f417a3f3cf4024098e13983bc800d57cf797035\">3f417a3</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/bfd0ad342f83401206db4927b8f21c65cf8613d7\">bfd0ad3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/7f18d616101fb0bc2d0d51ecda61fb0b57b5631b\">7f18d61</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0a18cfeff408adb423f4be0fdec342dfa2456098\">0a18cfe</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0105c53bd8f0104c1bbd227de462b87ef688a02b\">0105c53</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/caae71618e8d4f4b3b8b9f200626de9ed031a1fd\">caae716</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0cf48a9623761521e11c81a13d201b5ba2ffaec9\">0cf48a9</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/3f417a3f3cf4024098e13983bc800d57cf797035\">3f417a3</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
@@ -208,12 +208,5 @@
     "desc": "I commit in the Summer solstice.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/2a55d7415241773ff99c96e96f085cdcc9543e56\">2a55d74</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/6146efde7981502abc5476cacf27b4661575c1dd\">6146efd</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/5823694d40389a8afe95d91deee9d438fc251c78\">5823694</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/7277d46e55b79b5ad94ca0a4cb4efb5e6de07af7\">7277d46</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/0dcf4bde213bff71c7bfd9d0a8a09be95cfb6bde\">0dcf4bd</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/abd1c19647ec1541ad555c08b2ebb338e0d89279\">abd1c19</a>",
     "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/ZuBB/dotfiles\">ZuBB/dotfiles</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
