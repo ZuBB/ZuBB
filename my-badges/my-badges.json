@@ -215,5 +215,12 @@
     "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/3c7f515611d2894a6d9e76ed22574cc3365cec8a\">3c7f515</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/82d48c027fe54217e148f2946b691cf4762a75e5\">82d48c0</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/b807dc17ba0a161eac8460c8a561bfabe8704ffe\">b807dc1</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/9f8ae42ec1f88839e2a08f6661fb4a1c59b49329\">9f8ae42</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/292f0057ea9ec3834c8d11cb841e9f193bec3878\">292f005</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/0bfbc1bd0529a47d5572d4cdc9a06afefe385fb0\">0bfbc1b</a>",
     "image": "https://my-badges.github.io/my-badges/programmers-day.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/ZuBB/dotfiles\">ZuBB/dotfiles</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
