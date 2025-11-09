@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"autoupdate\".",
-    "body": "My favorite commit message words are:\n\n1. autoupdate (used 1044 times)\n2. 'dotfiles' (used 1004 times)\n3. configs (used 767 times)\n4. added (used 314 times)\n5. content (used 268 times)",
+    "body": "My favorite commit message words are:\n\n1. autoupdate (used 1045 times)\n2. 'dotfiles' (used 1005 times)\n3. configs (used 767 times)\n4. added (used 314 times)\n5. content (used 269 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -164,7 +164,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/228e5b933b6dd48bbf35f4a42a2c544011e86eee\">228e5b9</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/afcfb494ac3a70d2f00db0d99ff669edff9f911b\">afcfb49</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/1b0194b71ff9479c9ae763d47b6fb588ea8c0d8e\">1b0194b</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/6f6a99115b1dc65542f5d5b2398bb54416e74945\">6f6a991</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/68079b026f17569558c5d77ca34f310b39290a62\">68079b0</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/11cb8139869738ba739f92dc824684ea1ecb1f12\">11cb813</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/08de266f8880634ab8288b63ac98394ae7a34100\">08de266</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/228e5b933b6dd48bbf35f4a42a2c544011e86eee\">228e5b9</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/afcfb494ac3a70d2f00db0d99ff669edff9f911b\">afcfb49</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/1b0194b71ff9479c9ae763d47b6fb588ea8c0d8e\">1b0194b</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/6f6a99115b1dc65542f5d5b2398bb54416e74945\">6f6a991</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/68079b026f17569558c5d77ca34f310b39290a62\">68079b0</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
