@@ -229,5 +229,12 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/8a7ce05f8071d9f418aadeb5887d7f581942dcb1\">8a7ce05</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/f3bce3bb7179f0081fbf3d5b9f2435b46e0fb4de\">f3bce3b</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/22663a0969913bd6506a1648917a9becad69749b\">22663a0</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
