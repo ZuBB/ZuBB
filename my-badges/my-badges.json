@@ -219,7 +219,7 @@
   {
     "id": "may-the-4th",
     "tier": 0,
-    "desc": "May the 4th be with you! Commits of force:",
+    "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/024c924d4f47ea8fa8d2bb7791af5a37b8d69c7a\">024c924</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/fff136e32327dcfde069ba0d4997faf7ca61668b\">fff136e</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/a06e04574c787d79f8ca3842e52dee0577cc344b\">a06e045</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/52f39b0b999a77c33716447c7d75d63214956af3\">52f39b0</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/f6c78a7a195abb7f961ba0ecbea6ee01e5dea7a2\">f6c78a7</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
@@ -236,5 +236,19 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/f3bce3bb7179f0081fbf3d5b9f2435b46e0fb4de\">f3bce3b</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/22663a0969913bd6506a1648917a9becad69749b\">22663a0</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/fccc11934948bb2708449b4d123432b8e4c6ab84\">fccc119</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/47ee3f23dc7c6e6a93e6188be7fb40f0e8a6efe0\">47ee3f2</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/8a3fd347b47bbb056029094ce00bd0d606dd8501\">8a3fd34</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/607809acc405c0d8a47f95d56a3f454d044a4414\">607809a</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/e485c5ff7d200f1f8b41eab36ff9ca07b3ace885\">e485c5f</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/cd391c24546aee77628503432736a92c6404dcfc\">cd391c2</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/9d86e7bb758ef57c0f38ce8fe9e9ee5e0e6b5c58\">9d86e7b</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ce2aa06d3775cc898f55ef49611bf1e7e0307587\">ce2aa06</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/cfd023a10cff3719577a7a53543e98650367fd17\">cfd023a</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/c6bf4ba93d919650ebd9c785fb3d2e266fda8eef\">c6bf4ba</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/c2b0e21be34c1b67bf9ea838c63b1501451a8081\">c2b0e21</a>\n- <a href=\"https://github.com/ZuBB/ZuBB/commit/c93eb32603a9dc62c6350277dfeea37611b65924\">c93eb32</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
