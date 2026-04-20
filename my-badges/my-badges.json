@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"autoupdate\".",
-    "body": "My favorite commit message words are:\n\n1. autoupdate (used 1094 times)\n2. 'dotfiles' (used 1053 times)\n3. configs (used 767 times)\n4. content (used 318 times)\n5. added (used 314 times)",
+    "body": "My favorite commit message words are:\n\n1. autoupdate (used 1097 times)\n2. 'dotfiles' (used 1054 times)\n3. configs (used 767 times)\n4. content (used 321 times)\n5. added (used 314 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -150,14 +150,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/7f18d616101fb0bc2d0d51ecda61fb0b57b5631b\">7f18d61</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0a18cfeff408adb423f4be0fdec342dfa2456098\">0a18cfe</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0105c53bd8f0104c1bbd227de462b87ef688a02b\">0105c53</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/caae71618e8d4f4b3b8b9f200626de9ed031a1fd\">caae716</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0cf48a9623761521e11c81a13d201b5ba2ffaec9\">0cf48a9</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/3f417a3f3cf4024098e13983bc800d57cf797035\">3f417a3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/custom-app-icons/commit/e66573cdc1b8ba6f73b352c68a5a14683780784c\">e66573c</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/7f18d616101fb0bc2d0d51ecda61fb0b57b5631b\">7f18d61</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0a18cfeff408adb423f4be0fdec342dfa2456098\">0a18cfe</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0105c53bd8f0104c1bbd227de462b87ef688a02b\">0105c53</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/caae71618e8d4f4b3b8b9f200626de9ed031a1fd\">caae716</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0cf48a9623761521e11c81a13d201b5ba2ffaec9\">0cf48a9</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/be003a7368852bdb20f665e7686c1228d421e47b\">be003a7</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/48e7b25e10f1ef663225049ccac2b79ead4b4cb2\">48e7b25</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/3cf1f76a6b8a69153b7fb400b18b7926039161a4\">3cf1f76</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/5a6fc23ee499d561dac96b595ed99a72bd3c161a\">5a6fc23</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/9954d7645ac17ffb146e766b2bb8224a175ae16b\">9954d76</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/e4f4569ed6e3b72857c30767fdd787acf118bf9e\">e4f4569</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/custom-app-icons/commit/e0c24166f515f277011c6379256ffa088b253483\">e0c2416</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/59de790b591c2d5ff34a1b98babdf52ebb1572d0\">59de790</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/be003a7368852bdb20f665e7686c1228d421e47b\">be003a7</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/48e7b25e10f1ef663225049ccac2b79ead4b4cb2\">48e7b25</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/3cf1f76a6b8a69153b7fb400b18b7926039161a4\">3cf1f76</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/5a6fc23ee499d561dac96b595ed99a72bd3c161a\">5a6fc23</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
