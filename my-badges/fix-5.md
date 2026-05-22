@@ -4,11 +4,11 @@
 
 Commits:
 
-- <a href="https://github.com/ZuBB/lendesk-demo/commit/e1ee3601f5b3fa9161d42be9fdb8252f9867929c">e1ee360</a>: fix: add fallback for ints in redis config
-- <a href="https://github.com/ZuBB/lendesk-demo/commit/64c0deb436bbc019d547b6ffc39d02bfbd991c9e">64c0deb</a>: fix: simplify a password validation
-- <a href="https://github.com/ZuBB/lendesk-demo/commit/f70517eaf256a3adebb06babe255d942adcec2ca">f70517e</a>: fix: address typo
-- <a href="https://github.com/ZuBB/lendesk-demo/commit/e335481928dee7d29fa3bf418908b5c9da3e43a5">e335481</a>: fix: improve validation messages
-- <a href="https://github.com/ZuBB/lendesk-demo/commit/5dc1680507489b33782a3b343531cceddfd3e7c6">5dc1680</a>: fix: address TODO
+- <a href="https://github.com/ZuBB/homebrew-tap/commit/da2e2e55abac74bd177bdc6c8f07eb89ee3f50af">da2e2e5</a>: fix: add 'quarantine removal'
+- <a href="https://github.com/ZuBB/homebrew-tap/commit/fe5c87c7f13a5d5ac1626e7a1e83c8328623f7f6">fe5c87c</a>: fix: try forcibly sign app
+- <a href="https://github.com/ZuBB/homebrew-tap/commit/dfd0547b13af9b8fccbdc62f7328738784044dcb">dfd0547</a>: fix: remove all customizations
+- <a href="https://github.com/ZuBB/homebrew-tap/commit/a8c9f7f1fd21d494c3376420df6209116e83bc45">a8c9f7f</a>: fix: try to address sign issue
+- <a href="https://github.com/ZuBB/homebrew-tap/commit/613a6ab0ca5ef2d1695160ae0bcefbb60801a111">613a6ab</a>: fix: update readme
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/ZuBB/tailwindcss-source-wrapper/commit/62db50d0d53dc7ec7ff98c9aeae1679abc37ee5e">62db50d</a>: fix: change package name
-- <a href="https://github.com/ZuBB/tailwindcss-source-wrapper/commit/d44e530cadac9bab2fe2ffd4930eb6569c7c0d91">d44e530</a>: fix: address issue with 'bin' param in package.json
+- <a href="https://github.com/ZuBB/homebrew-tap/commit/8f8f6b4cdaa34a1e8808bd4eb13420e23be3fa50">8f8f6b4</a>: fix: use different versions
+- <a href="https://github.com/ZuBB/homebrew-tap/commit/0d8e726360f7624452ef8e8bb49feb6c71395474">0d8e726</a>: fix: address issues reported by brew
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

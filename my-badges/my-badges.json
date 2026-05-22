@@ -17,7 +17,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/tailwindcss-source-wrapper/commit/80f8cdc31a8e770ad7c7b0fabcfac4856d537ac1\">80f8cdc</a>: chore: remove 'arg'. now for sure",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/4dfe365ebd0f7af4ffbe1bb6cf4b39ae487c9d76\">4dfe365</a>: chore: start own tap repo",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -59,14 +59,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"autoupdate\".",
-    "body": "My favorite commit message words are:\n\n1. autoupdate (used 1108 times)\n2. 'dotfiles' (used 1065 times)\n3. configs (used 767 times)\n4. content (used 332 times)\n5. repo (used 322 times)",
+    "body": "My favorite commit message words are:\n\n1. autoupdate (used 1108 times)\n2. 'dotfiles' (used 1065 times)\n3. configs (used 767 times)\n4. content (used 332 times)\n5. repo (used 323 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/tailwindcss-source-wrapper/commit/62db50d0d53dc7ec7ff98c9aeae1679abc37ee5e\">62db50d</a>: fix: change package name\n- <a href=\"https://github.com/ZuBB/tailwindcss-source-wrapper/commit/d44e530cadac9bab2fe2ffd4930eb6569c7c0d91\">d44e530</a>: fix: address issue with 'bin' param in package.json",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/8f8f6b4cdaa34a1e8808bd4eb13420e23be3fa50\">8f8f6b4</a>: fix: use different versions\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/0d8e726360f7624452ef8e8bb49feb6c71395474\">0d8e726</a>: fix: address issues reported by brew",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "fix-5",
     "tier": 4,
     "desc": "I did 5 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/e1ee3601f5b3fa9161d42be9fdb8252f9867929c\">e1ee360</a>: fix: add fallback for ints in redis config\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/64c0deb436bbc019d547b6ffc39d02bfbd991c9e\">64c0deb</a>: fix: simplify a password validation\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/f70517eaf256a3adebb06babe255d942adcec2ca\">f70517e</a>: fix: address typo\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/e335481928dee7d29fa3bf418908b5c9da3e43a5\">e335481</a>: fix: improve validation messages\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/5dc1680507489b33782a3b343531cceddfd3e7c6\">5dc1680</a>: fix: address TODO",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/da2e2e55abac74bd177bdc6c8f07eb89ee3f50af\">da2e2e5</a>: fix: add 'quarantine removal'\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/fe5c87c7f13a5d5ac1626e7a1e83c8328623f7f6\">fe5c87c</a>: fix: try forcibly sign app\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/dfd0547b13af9b8fccbdc62f7328738784044dcb\">dfd0547</a>: fix: remove all customizations\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/a8c9f7f1fd21d494c3376420df6209116e83bc45\">a8c9f7f</a>: fix: try to address sign issue\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/613a6ab0ca5ef2d1695160ae0bcefbb60801a111\">613a6ab</a>: fix: update readme",
     "image": "https://my-badges.github.io/my-badges/fix-5.png"
   },
   {
