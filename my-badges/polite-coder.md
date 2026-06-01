@@ -8,7 +8,7 @@ I use words like "thanks" and "please" in my issues:
 - <a href="https://github.com/joemccann/dillinger/issues/303">#303</a>: [question]getting latest version of the doc after start
 - <a href="https://github.com/RichiH/vcsh/issues/157">#157</a>: [FR] please add 'quiet' option
 - <a href="https://github.com/t9md/atom-vim-mode-plus-ex-mode/issues/15">#15</a>: [FR] please add support of replace
-- <a href="https://github.com/dwarvesf/homebrew-tap/issues/4">#4</a>: Complaints of `brew doctor`
+- <a href="https://github.com/davidstutz/bootstrap-multiselect/issues/93">#93</a>: styling issue
 
  And many more...
 

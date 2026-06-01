@@ -129,7 +129,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/dpashkevich/grunt-jsduck/issues/10\">#10</a>: Handling of jsduck error codes other than 127\n- <a href=\"https://github.com/joemccann/dillinger/issues/303\">#303</a>: [question]getting latest version of the doc after start\n- <a href=\"https://github.com/RichiH/vcsh/issues/157\">#157</a>: [FR] please add 'quiet' option\n- <a href=\"https://github.com/t9md/atom-vim-mode-plus-ex-mode/issues/15\">#15</a>: [FR] please add support of replace\n- <a href=\"https://github.com/dwarvesf/homebrew-tap/issues/4\">#4</a>: Complaints of `brew doctor`\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/dpashkevich/grunt-jsduck/issues/10\">#10</a>: Handling of jsduck error codes other than 127\n- <a href=\"https://github.com/joemccann/dillinger/issues/303\">#303</a>: [question]getting latest version of the doc after start\n- <a href=\"https://github.com/RichiH/vcsh/issues/157\">#157</a>: [FR] please add 'quiet' option\n- <a href=\"https://github.com/t9md/atom-vim-mode-plus-ex-mode/issues/15\">#15</a>: [FR] please add support of replace\n- <a href=\"https://github.com/davidstutz/bootstrap-multiselect/issues/93\">#93</a>: styling issue\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
