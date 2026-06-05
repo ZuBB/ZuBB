@@ -17,7 +17,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/4dfe365ebd0f7af4ffbe1bb6cf4b39ae487c9d76\">4dfe365</a>: chore: start own tap repo",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/node-caged-bin/commit/15cc7b30f6ae313f1fb5cd8a1271a9a7e4cf31b2\">15cc7b3</a>: chore: adde link to the tap",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
