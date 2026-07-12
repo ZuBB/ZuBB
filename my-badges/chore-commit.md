@@ -4,7 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/ZuBB/node-caged-bin/commit/15cc7b30f6ae313f1fb5cd8a1271a9a7e4cf31b2">15cc7b3</a>: chore: adde link to the tap
+- <a href="https://github.com/ZuBB/chat/commit/2c28196179f85d790bd23b7dfb799839faa7090b">2c28196</a>: chore: rebuild distribution bundles
+
+Regenerate the committed browser, Node, declaration, and source-map artifacts after the reconnect lifecycle fixes.
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

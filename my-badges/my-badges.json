@@ -17,7 +17,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/node-caged-bin/commit/15cc7b30f6ae313f1fb5cd8a1271a9a7e4cf31b2\">15cc7b3</a>: chore: adde link to the tap",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/chat/commit/2c28196179f85d790bd23b7dfb799839faa7090b\">2c28196</a>: chore: rebuild distribution bundles\n\nRegenerate the committed browser, Node, declaration, and source-map artifacts after the reconnect lifecycle fixes.",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ms-demo/commit/f58153c21faef83873fddab8db1f54acd8320ec2\">f58153c</a>: fix: unify usage of 'stopGame' method\n- <a href=\"https://github.com/ZuBB/ms-demo/commit/721546d9b7c88e708e28c9af6cba3dd80dc56ba2\">721546d</a>: fix: address styling issues\n- <a href=\"https://github.com/ZuBB/ms-demo/commit/56f6deac59b0fc70b97acc3066681ce63699ef9f\">56f6dea</a>: fix: prevent appearance of negative seconds\n- <a href=\"https://github.com/ZuBB/ms-demo/commit/67228255ba1065a7e469f9b2deb313b22c11856d\">6722825</a>: fix: show win/loose message",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/chat/commit/9686f9e8e936b740ccd49c9130b66c61da74d995\">9686f9e</a>: fix: handle internal reconnect failures\n\nRoute ping timeouts and unexpected socket closures through a shared fire-and-forget helper. Reconnect rejections are now emitted through the client error event instead of reaching the runtime as unhandled promises.\n- <a href=\"https://github.com/ZuBB/chat/commit/309169086852d4320d01843108e689ebb934fa63\">3091690</a>: fix: cancel reconnects on explicit close\n\nSeparate internal socket replacement from public shutdown so close() can cancel a pending backoff without reconnect() cancelling itself. Install cancellation before emitting reconnecting to cover synchronous shutdown listeners.\n- <a href=\"https://github.com/ZuBB/chat/commit/ee2e20b4a8d6ced37c4d6eb77e3a25cf78191d09\">ee2e20b</a>: fix: coalesce concurrent reconnect requests\n\nKeep one active reconnect promise and return it to overlapping callers. This prevents normal lifecycle races from creating duplicate timers or surfacing an already-reconnecting error.\n- <a href=\"https://github.com/ZuBB/chat/commit/960b3d51658e588427132a781eb9be71c56289e8\">960b3d5</a>: fix: ignore events from stale sockets\n\nBind WebSocket callbacks to the instance that registered them. Delayed events from a replaced socket can no longer mutate the active connection or start another reconnect cycle.\n\nAdd a fake-WebSocket regression test and a minimal Node test command.",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
@@ -157,7 +157,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/48b467376046343cdecbb88e068aef85eafc108e\">48b4673</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0f434fffd7eb67c27743899429c18703d9f6114d\">0f434ff</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/b50160622ee5bb00645f5ce05ce088dae1fe8b3e\">b501606</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/f499ec3bf668cccdd313fe82e2465e639b366e3f\">f499ec3</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/d7596522f6f105d407d820726c10b7614b241c54\">d759652</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/1af2aa28c7e9fe455eedfccff5aee5bbc7506c3a\">1af2aa2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/chat/commit/2c28196179f85d790bd23b7dfb799839faa7090b\">2c28196</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/9686f9e8e936b740ccd49c9130b66c61da74d995\">9686f9e</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/309169086852d4320d01843108e689ebb934fa63\">3091690</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/ee2e20b4a8d6ced37c4d6eb77e3a25cf78191d09\">ee2e20b</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/960b3d51658e588427132a781eb9be71c56289e8\">960b3d5</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/74c583af2f1d3c6072a4526820502b309703e9de\">74c583a</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
