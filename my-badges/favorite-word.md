@@ -6,9 +6,9 @@ My favorite commit message words are:
 
 1. autoupdate (used 1138 times)
 2. 'dotfiles' (used 1095 times)
-3. configs (used 767 times)
-4. content (used 362 times)
-5. repo (used 353 times)
+3. cleanup (used 71 times)
+4. table (used 56 times)
+5. start (used 21 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
