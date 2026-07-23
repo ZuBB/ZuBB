@@ -1,108 +1,10 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/ZuBB/portage3/commit/a5e0eccb333f52928c43ee7c10a7d7edb50541c7\"><strong>a</strong>5e0eccb333f52928c43ee7c10a7d7edb50541c7</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/ZuBB/portage3/commit/abb936070918cd7d7607cf36453273e89e3afb56\"><strong>ab</strong>b936070918cd7d7607cf36453273e89e3afb56</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/chat/commit/2c28196179f85d790bd23b7dfb799839faa7090b\">2c28196</a>: chore: rebuild distribution bundles\n\nRegenerate the committed browser, Node, declaration, and source-map artifacts after the reconnect lifecycle fixes.",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
-    "id": "cosmetic-commit",
-    "tier": 0,
-    "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/85fda4be4666fdb9913b442b8b89131589241a59\">85fda4b</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/a5084fe6f7ddd0d03124be8d64e8f3192d6395a4\">a5084fe</a>",
-    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
-  },
-  {
-    "id": "dead-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/ZuBB/ash/commit/18e442ac1f21dead02130dd77fd3bed79a2e7a69\">18e442ac1f21<strong>dead</strong>02130dd77fd3bed79a2e7a69</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/956703ca7493adbe8d2f45dead837cc185161cdc\">956703ca7493adbe8d2f45<strong>dead</strong>837cc185161cdc</a>",
-    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
-  },
-  {
-    "id": "delorean",
-    "tier": 0,
-    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/portage3/commit/16b3b91f08dfb9ff51408f2c307539a8341c115b\">16b3b91</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/afee90e0ed3f37bd6ae204ba563a6022849c2095\">afee90e</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/f46d28945ab37f12f577ae1d85f5fb156a1aba1a\">f46d289</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/7889e95eacb2cc03d6b9d655e4b75c77071f95f1\">7889e95</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/43fabd90c43142288280d6d7a4d8ac150c00d330\">43fabd9</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/5c3f5643a723b1b488445f0b0e12e4d60e18d7df\">5c3f564</a>",
-    "image": "https://my-badges.github.io/my-badges/delorean.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/chat/commit/39d37eaae30243dcf74b673369be89fc05279af5\">39d37ea</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/3956f3d23a248b526a1b761462426a94b52038da\">3956f3d</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/5eda089b5d346bcbfe46a6a6e4fb5d51dd99a282\">5eda089</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/949272f8e41eddb6dd516a7a4945ce2de32fd13a\">949272f</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/401b85f8d713a3ce0d20bac580215487496e04d1\">401b85f</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/75f5eb1c5c95d39c1f44567c6580e1c0079bfafd\">75f5eb1</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/a7a7e79cc9a184ae43d656d2cff24fda9d1894e2\">a7a7e79</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/a19f46dfa75e23cfe90244c8fcbd8c664823d727\">a19f46d</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/c3ef8109ec63db2e5875a15b8e975b5f24927842\">c3ef810</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/2807325eeb71c7f530e3369841ca1ce45c35ed43\">2807325</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/1d65f06e28ab785f8c6cad8fdd758ca53406c127\">1d65f06</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/4bf2981c3f4afd6f8ee0fe91b0b1f18963892442\">4bf2981</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/d4609827f85c74b56eef9daa8f442e5c9bf8704d\">d460982</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/3628f5a64602b0a79210c0624af734d277d312ee\">3628f5a</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/a84499d07ce5987a7a96fd668a1265d6d0b84815\">a84499d</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"autoupdate\".",
-    "body": "My favorite commit message words are:\n\n1. autoupdate (used 1141 times)\n2. 'dotfiles' (used 1098 times)\n3. cleanup (used 71 times)\n4. table (used 56 times)\n5. start (used 21 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/8d261686ded150e8390ac36f2cbfe22c1e44240c\">8d26168</a>: fix: use correct path duing patching\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/4e2a19dd34170c54d4e5f15ec22f80795d2482cb\">4e2a19d</a>: fix: patching all icons",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/c4mk/commit/28c545bf1d1670442804f0e676fde8e895dcfab7\">28c545b</a>: fix: correct input for back wheels\n- <a href=\"https://github.com/ZuBB/c4mk/commit/a366a9cf786a1dc9e07fc8381165f297e1c244a1\">a366a9c</a>: fix: add more l10n changes\n- <a href=\"https://github.com/ZuBB/c4mk/commit/1e219e8756327666bf1ca8f94f8bad88c8512774\">1e219e8</a>: fix: drop labels for product/price inputs",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
-  },
-  {
-    "id": "fix-6+",
-    "tier": 6,
-    "desc": "I did 9 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/chat/commit/3956f3d23a248b526a1b761462426a94b52038da\">3956f3d</a>: fix: contain IRC protocol processing failures\n\nProblem:\nIRC parsing and message handlers ran directly inside the WebSocket message callback, and unsolicited PONG handling threw when no client ping had been recorded.\n\nImpact:\nOne malformed or unexpected line could escape the callback as an unhandled exception and prevent valid later lines in the same frame from being processed.\n\nCause:\nThe transport had no per-line protocol error boundary or structured protocol error type.\n\nChange:\nExport ProtocolError with bounded sanitized line context, catch parsing and handler failures independently for every IRC line, emit them through the existing error event, and continue processing subsequent lines without forcing reconnect for recoverable input.\n\nCompatibility:\nValid IRC handling and existing events are unchanged; protocol failures become observable Error subtypes instead of callback exceptions.\n\nTests:\nSend an unsolicited PONG followed by valid authentication in one frame and verify the protocol error is reported while readiness still completes.\n- <a href=\"https://github.com/ZuBB/chat/commit/5eda089b5d346bcbfe46a6a6e4fb5d51dd99a282\">5eda089</a>: fix: adapt IRC command acknowledgement deadlines\n\nProblem:\nCommand responders defaulted to a one-second deadline whenever no client-originated ping latency had been recorded.\n\nImpact:\nNormal Twitch processing or temporary runtime latency could be misclassified as failed delivery, encouraging retries with uncertain delivery status and masking real connection-health signals.\n\nCause:\nThe timeout used twice a single optional RTT sample with a one-second floor; before keepalive produced a sample, the hardcoded fallback always selected that floor.\n\nChange:\nExport CommandTimeoutError with command, channel, generation, and duration context, use a five-second pre-RTT default, maintain a smoothed RTT, and calculate RTT-plus-margin deadlines bounded to three through fifteen seconds with additive tuning options.\n\nCompatibility:\nExplicit internal timeout overrides and existing error messages remain compatible; the new Error subtype and options are additive.\n\nTests:\nVerify configured acknowledgement timing and typed timeout metadata.\n- <a href=\"https://github.com/ZuBB/chat/commit/949272f8e41eddb6dd516a7a4945ce2de32fd13a\">949272f</a>: fix: preserve and jitter reconnect backoff\n\nProblem:\nReconnect attempts reset when the raw WebSocket opened, even if IRC authentication or channel restoration immediately failed, and every client used the same deterministic delay.\n\nImpact:\nRepeated handshake failures retried at the minimum interval and multiple clients could reconnect in lockstep during shared outages.\n\nCause:\nBackoff success was defined at the socket layer rather than stable application readiness, and the exponential delay had no jitter.\n\nChange:\nReset attempts only after 30 seconds of stable ready state, add configurable equal jitter with injectable randomness, preserve the existing base, multiplier, and cap defaults, and report the actual scheduled delay.\n\nCompatibility:\nExisting reconnect events and keepalive attempt counters remain available; all tuning options are additive.\n\nTests:\nVerify equal-jitter bounds and cancellation plus delayed attempt reset after stable readiness.\n- <a href=\"https://github.com/ZuBB/chat/commit/401b85f8d713a3ce0d20bac580215487496e04d1\">401b85f</a>: fix: await authenticated reconnect completion\n\nProblem:\nThe reconnect promise resolved as soon as a replacement WebSocket attempt was created, before Twitch IRC authentication or channel restoration succeeded.\n\nImpact:\nCallers could treat a still-authenticating or failed replacement as recovered and resume work against an unusable connection.\n\nCause:\nThe reconnect delay callback resolved immediately after invoking connect and exposed no readiness waiter.\n\nChange:\nKeep reconnect source-compatible while resolving it only after the connected authentication state, retain single-flight behavior and cancellation, and add waitUntilReady for consumers that require restored channel membership.\n\nCompatibility:\nThe method signature is unchanged; its promise now provides the stronger completion guarantee implied by its name. waitUntilReady is additive.\n\nTests:\nVerify reconnect remains unsettled before numeric 376, resolves after authentication, supports readiness waiting, and preserves concurrent and stale-socket behavior.\n- <a href=\"https://github.com/ZuBB/chat/commit/75f5eb1c5c95d39c1f44567c6580e1c0079bfafd\">75f5eb1</a>: fix: report and classify authentication failures\n\nProblem:\nTwitch login rejection silently closed the client as if the caller requested shutdown, malformed authentication used an imprecise generic error, and token-provider failures lacked authentication context.\n\nImpact:\nConsumers could not refresh or replace credentials reliably, terminal invalid credentials were invisible, and server-driven failures suppressed meaningful recovery decisions.\n\nCause:\nUntagged authentication NOTICE handling called the public close path before classifying the server response, while asynchronous token failures propagated as generic errors.\n\nChange:\nExport AuthenticationError with transient classification, report secret-safe login, formatting, provider, and token-timeout failures, recover transient setup failures, and suppress automatic retry for terminal invalid credentials without marking them as intentional user closure.\n\nCompatibility:\nThe existing error event remains the delivery mechanism; the exported Error subtype and classification are additive.\n\nTests:\nCover terminal Twitch login rejection without reconnect and transient token-provider failure with recovery.\n- <a href=\"https://github.com/ZuBB/chat/commit/a7a7e79cc9a184ae43d656d2cff24fda9d1894e2\">a7a7e79</a>: fix: isolate asynchronous socket generations\n\nProblem:\nA socket open handler could await an asynchronous token while a reconnect replaced that socket, then continue authentication using the client's new socket reference.\n\nImpact:\nLate work from a stale connection could send credentials through or mutate the lifecycle of a replacement connection, creating duplicate or corrupted handshakes.\n\nCause:\nSocket identity was checked only before entering the asynchronous open handler and not after awaited token resolution.\n\nChange:\nCarry the opened socket through connection setup, revalidate it after asynchronous boundaries and before authentication writes, and route current-generation setup failures through observable recovery while ignoring stale failures.\n\nCompatibility:\nPublic APIs are unchanged; only stale asynchronous work is suppressed.\n\nTests:\nDelay token resolution, replace the socket, and verify the stale handler cannot authenticate the replacement.\n- <a href=\"https://github.com/ZuBB/chat/commit/a19f46dfa75e23cfe90244c8fcbd8c664823d727\">a19f46d</a>: fix: cancel command waits when connections close\n\nProblem:\nPending join, part, and message acknowledgement waits survived socket closure until their independent command deadlines expired.\n\nImpact:\nCallers received delayed USERSTATE or command timeout errors that hid the actual network failure and held listeners after the responsible connection was gone.\n\nCause:\nCommand responders were not associated with a connection generation and socket closure did not notify them.\n\nChange:\nExport ConnectionClosedError, bind each wait to its generation, cancel matching waits immediately on close, preserve close code and reason, and remove listeners and timers exactly once.\n\nCompatibility:\nSuccessful command behavior is unchanged; failed operations now reject earlier with a more precise exported Error subtype.\n\nTests:\nVerify a pending send rejects immediately with its abnormal close code and network reason.\n- <a href=\"https://github.com/ZuBB/chat/commit/c3ef8109ec63db2e5875a15b8e975b5f24927842\">c3ef810</a>: fix: bound connection lifecycle phases\n\nProblem:\nWebSocket opening, token resolution, IRC authentication, and channel joining had no explicit lifecycle model and could remain pending indefinitely.\n\nImpact:\nA connection attempt could stall without entering reconnect recovery, leaving callers unable to distinguish transport-open, authenticated, joined, and ready states.\n\nCause:\nThe client only exposed socket readiness and event callbacks; phase deadlines and state transitions were not represented.\n\nChange:\nAdd compatible phase timeout options, enforce deadlines for socket open, token resolution, authentication, and join, and expose additive lifecycle states through stateChange events with connection generations.\n\nCompatibility:\nExisting connect and event APIs remain available. New options and the state event are additive.\n\nTests:\nCover authentication lifecycle transitions, bounded authentication recovery, and timeout cleanup alongside the existing reconnect suite.\n- <a href=\"https://github.com/ZuBB/chat/commit/2807325eeb71c7f530e3369841ca1ce45c35ed43\">2807325</a>: fix: activate IRC keepalive monitoring\n\nProblem:\nThe client declared ping interval and timeout settings and implemented a ping timeout reconnect path, but authenticated connections never scheduled the ping method.\n\nImpact:\nHalf-open WebSocket connections could remain marked open while outgoing commands timed out, delaying recovery until the runtime or TCP stack eventually detected abnormal closure.\n\nCause:\nNo lifecycle hook started keepalive after IRC authentication, and teardown did not centralize timer cleanup.\n\nChange:\nStart one client-originated IRC keepalive interval after numeric 376, prevent overlapping outstanding pings, clear timers on PONG and teardown, and add compatible millisecond constructor options while retaining mutable keepalive fields.\n\nCompatibility:\nExisting defaults and public keepalive fields remain available; the new options are additive.\n\nTests:\nCover authenticated keepalive startup, PONG timeout clearing, missing-PONG reconnect, single outstanding ping behavior, and explicit shutdown cleanup.",
-    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
-  },
-  {
-    "id": "fix-6",
-    "tier": 5,
-    "desc": "I did 6 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/c4mk/commit/33438c23f44dfd244d0a61e87b958280414f6a62\">33438c2</a>: fix: make submit button perform subm,it action\n- <a href=\"https://github.com/ZuBB/c4mk/commit/794472b659a47855e458b6354cf86df40c2c071a\">794472b</a>: fix: move submit button out of form\n- <a href=\"https://github.com/ZuBB/c4mk/commit/3c6745e35f487a4ed4485313ca460963e5439c49\">3c6745e</a>: fix: drop useless fields from form\n- <a href=\"https://github.com/ZuBB/c4mk/commit/f6581fd2600e9166814e3d6efa0db6a653cf4969\">f6581fd</a>: fix: add more tuning of styling\n- <a href=\"https://github.com/ZuBB/c4mk/commit/d31fc7eca70cdedc2fbcff2a54ca5fa5281f5357\">d31fc7e</a>: fix: add some styling\n- <a href=\"https://github.com/ZuBB/c4mk/commit/b4eef2273ec41bd8778977716076036ae5b2b533\">b4eef22</a>: fix: connect all parts of form together",
-    "image": "https://my-badges.github.io/my-badges/fix-6.png"
-  },
-  {
-    "id": "fix-5",
-    "tier": 4,
-    "desc": "I did 5 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/da2e2e55abac74bd177bdc6c8f07eb89ee3f50af\">da2e2e5</a>: fix: add 'quarantine removal'\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/fe5c87c7f13a5d5ac1626e7a1e83c8328623f7f6\">fe5c87c</a>: fix: try forcibly sign app\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/dfd0547b13af9b8fccbdc62f7328738784044dcb\">dfd0547</a>: fix: remove all customizations\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/a8c9f7f1fd21d494c3376420df6209116e83bc45\">a8c9f7f</a>: fix: try to address sign issue\n- <a href=\"https://github.com/ZuBB/homebrew-tap/commit/613a6ab0ca5ef2d1695160ae0bcefbb60801a111\">613a6ab</a>: fix: update readme",
-    "image": "https://my-badges.github.io/my-badges/fix-5.png"
-  },
-  {
-    "id": "fix-4",
-    "tier": 3,
-    "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/chat/commit/9686f9e8e936b740ccd49c9130b66c61da74d995\">9686f9e</a>: fix: handle internal reconnect failures\n\nRoute ping timeouts and unexpected socket closures through a shared fire-and-forget helper. Reconnect rejections are now emitted through the client error event instead of reaching the runtime as unhandled promises.\n- <a href=\"https://github.com/ZuBB/chat/commit/309169086852d4320d01843108e689ebb934fa63\">3091690</a>: fix: cancel reconnects on explicit close\n\nSeparate internal socket replacement from public shutdown so close() can cancel a pending backoff without reconnect() cancelling itself. Install cancellation before emitting reconnecting to cover synchronous shutdown listeners.\n- <a href=\"https://github.com/ZuBB/chat/commit/ee2e20b4a8d6ced37c4d6eb77e3a25cf78191d09\">ee2e20b</a>: fix: coalesce concurrent reconnect requests\n\nKeep one active reconnect promise and return it to overlapping callers. This prevents normal lifecycle races from creating duplicate timers or surfacing an already-reconnecting error.\n- <a href=\"https://github.com/ZuBB/chat/commit/960b3d51658e588427132a781eb9be71c56289e8\">960b3d5</a>: fix: ignore events from stale sockets\n\nBind WebSocket callbacks to the instance that registered them. Delayed events from a replaced socket can no longer mutate the active connection or start another reconnect cycle.\n\nAdd a fake-WebSocket regression test and a minimal Node test command.",
-    "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
     "id": "github-anniversary-5",
@@ -117,13 +19,6 @@
     "desc": "I joined GitHub 10 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/4cb6e721ba4ca6ba800863114028a750f28e2f4b\">4cb6e72</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "polite-coder",
@@ -147,41 +42,6 @@
     "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   },
   {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/1b5ead703855987aaa7842c6782c645100b2bec4\">1b5ead7</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/e570b35a07b6e1850c03f945b6be2c8afbeabc30\">e570b35</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ccca7fe9a47b73996a619695e83f54016fc9c68c\">ccca7fe</a>\n- <a href=\"https://github.com/ZuBB/custom-app-icons/commit/e66573cdc1b8ba6f73b352c68a5a14683780784c\">e66573c</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/7f18d616101fb0bc2d0d51ecda61fb0b57b5631b\">7f18d61</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/0a18cfeff408adb423f4be0fdec342dfa2456098\">0a18cfe</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/chat/commit/39d37eaae30243dcf74b673369be89fc05279af5\">39d37ea</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/3956f3d23a248b526a1b761462426a94b52038da\">3956f3d</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/5eda089b5d346bcbfe46a6a6e4fb5d51dd99a282\">5eda089</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/949272f8e41eddb6dd516a7a4945ce2de32fd13a\">949272f</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/401b85f8d713a3ce0d20bac580215487496e04d1\">401b85f</a>\n- <a href=\"https://github.com/ZuBB/chat/commit/75f5eb1c5c95d39c1f44567c6580e1c0079bfafd\">75f5eb1</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/b30acdd3bb059cbe64086dfa6388f1083705b18b\">b30acdd</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/964ce86fd4a31260bdc9e65f3bf7f575518e66c8\">964ce86</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/08de266f8880634ab8288b63ac98394ae7a34100\">08de266</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/228e5b933b6dd48bbf35f4a42a2c544011e86eee\">228e5b9</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/afcfb494ac3a70d2f00db0d99ff669edff9f911b\">afcfb49</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/1b0194b71ff9479c9ae763d47b6fb588ea8c0d8e\">1b0194b</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "midnight-commits",
-    "tier": 0,
-    "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ac8d6f1347bee89ec9c7afa999abee4151c6b45e\">ac8d6f1</a>\n- <a href=\"https://github.com/ZuBB/c4mk/commit/805889bc6584074ff7940ad40a8cf9e38239ff81\">805889b</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/aee953e90de7f9601988bcd8426edda90ce19c81\">aee953e</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ac36d9dc860c385eab596adbb45a5c2cc2b52a03\">ac36d9d</a>",
-    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
-  },
-  {
-    "id": "spooky-commit",
-    "tier": 0,
-    "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/bff0597c575068fd9961368a594b5b51059c0ed7\">bff0597</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/e9acdc4d3312fe9c1c741e0118ff5067fef1f317\">e9acdc4</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/c64e1ec95b893771dddc7b8f78f7239f98ee5216\">c64e1ec</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/9a8ed1ac16c48191f4dd0769253b3ed65131b771\">9a8ed1a</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/62b636c017f8a16048a29928dfde31c4d0afcf89\">62b636c</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/a75131c4db2f608bb3cb621c4638facacd5cb36e\">a75131c</a>",
-    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
-  },
-  {
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
@@ -194,62 +54,6 @@
     "desc": "I liked my own comment so much that I upvoted it.",
     "body": "* <a href=\"https://github.com/RichiH/vcsh/issues/157\">👍</a>\n* <a href=\"https://github.com/git/git/pull/2004\">👍</a>",
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/f6ac78ad00b0e8f35060626f613b8bf923565afb\">f6ac78a</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/1b2db0d1423610b1f34addf26d4d49f37d88007a\">1b2db0d</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ec2960fe5fe4736c62a8f9056a078e9a282911b9\">ec2960f</a>\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/d24617c2f64e34d0287e9a04564e072ef3e07610\">d24617c</a>\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/91fac30c0166442332ba4f6ebeeca391c9b2c6b6\">91fac30</a>\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/6ed86130cb842e43e50f785f5f8050f17fce5e4a\">6ed8613</a>\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/becd90ede0f2d49738138900b85af0dac4fc63c3\">becd90e</a>\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/16322f0f9fb1b3d091ca04fe679d6f9ead8c633e\">16322f0</a>\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/2d60c1bda5e2540c0c1f6287e957f2afde5c87ce\">2d60c1b</a>\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/196e2ae265d40041ecb0637c3f1bfef32b293627\">196e2ae</a>\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/e1ee3601f5b3fa9161d42be9fdb8252f9867929c\">e1ee360</a>\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/64c0deb436bbc019d547b6ffc39d02bfbd991c9e\">64c0deb</a>\n- <a href=\"https://github.com/ZuBB/lendesk-demo/commit/f70517eaf256a3adebb06babe255d942adcec2ca\">f70517e</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "summer-solstice-commits",
-    "tier": 0,
-    "desc": "I commit in the Summer solstice.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/ash/commit/2a55d7415241773ff99c96e96f085cdcc9543e56\">2a55d74</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/6146efde7981502abc5476cacf27b4661575c1dd\">6146efd</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/5823694d40389a8afe95d91deee9d438fc251c78\">5823694</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/7277d46e55b79b5ad94ca0a4cb4efb5e6de07af7\">7277d46</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/0dcf4bde213bff71c7bfd9d0a8a09be95cfb6bde\">0dcf4bd</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/abd1c19647ec1541ad555c08b2ebb338e0d89279\">abd1c19</a>",
-    "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
-  },
-  {
-    "id": "programmers-day",
-    "tier": 0,
-    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/3c7f515611d2894a6d9e76ed22574cc3365cec8a\">3c7f515</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/82d48c027fe54217e148f2946b691cf4762a75e5\">82d48c0</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/b807dc17ba0a161eac8460c8a561bfabe8704ffe\">b807dc1</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/9f8ae42ec1f88839e2a08f6661fb4a1c59b49329\">9f8ae42</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/292f0057ea9ec3834c8d11cb841e9f193bec3878\">292f005</a>\n- <a href=\"https://github.com/ZuBB/portage3/commit/0bfbc1bd0529a47d5572d4cdc9a06afefe385fb0\">0bfbc1b</a>",
-    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
-  },
-  {
-    "id": "may-the-4th",
-    "tier": 0,
-    "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/024c924d4f47ea8fa8d2bb7791af5a37b8d69c7a\">024c924</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/fff136e32327dcfde069ba0d4997faf7ca61668b\">fff136e</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/a06e04574c787d79f8ca3842e52dee0577cc344b\">a06e045</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/52f39b0b999a77c33716447c7d75d63214956af3\">52f39b0</a>\n- <a href=\"https://github.com/ZuBB/ash/commit/f6c78a7a195abb7f961ba0ecbea6ee01e5dea7a2\">f6c78a7</a>",
-    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
-  },
-  {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/befe5976547a0c1ac7ac0f215e982b0200fb590b\">befe597</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/b5a9012f74ed8729a1910d660cea1357e43c0712\">b5a9012</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/5d8612ce36cec5d78c3b8f81c1a27eb1cd639777\">5d8612c</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/9e403c7e5262d933e7938005d50ccfed7ce428b9\">9e403c7</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/607fe2b092fd3e75fc84b3e375bb8d4abfcdd871\">607fe2b</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/f2f49cde0a9bae0c6ae170cab97fd432d4904b49\">f2f49cd</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/f3bce3bb7179f0081fbf3d5b9f2435b46e0fb4de\">f3bce3b</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/22663a0969913bd6506a1648917a9becad69749b\">22663a0</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
-    "id": "alien-day",
-    "tier": 0,
-    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/1af2aa28c7e9fe455eedfccff5aee5bbc7506c3a\">1af2aa2</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/e570b35a07b6e1850c03f945b6be2c8afbeabc30\">e570b35</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ccca7fe9a47b73996a619695e83f54016fc9c68c\">ccca7fe</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/fccc11934948bb2708449b4d123432b8e4c6ab84\">fccc119</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/47ee3f23dc7c6e6a93e6188be7fb40f0e8a6efe0\">47ee3f2</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/8a3fd347b47bbb056029094ce00bd0d606dd8501\">8a3fd34</a>",
-    "image": "https://my-badges.github.io/my-badges/alien-day.png"
-  },
-  {
-    "id": "science-fiction-day",
-    "tier": 0,
-    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/9d86e7bb758ef57c0f38ce8fe9e9ee5e0e6b5c58\">9d86e7b</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/ce2aa06d3775cc898f55ef49611bf1e7e0307587\">ce2aa06</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/cfd023a10cff3719577a7a53543e98650367fd17\">cfd023a</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/c6bf4ba93d919650ebd9c785fb3d2e266fda8eef\">c6bf4ba</a>\n- <a href=\"https://github.com/ZuBB/dotfiles/commit/c2b0e21be34c1b67bf9ea838c63b1501451a8081\">c2b0e21</a>\n- <a href=\"https://github.com/ZuBB/ZuBB/commit/c93eb32603a9dc62c6350277dfeea37611b65924\">c93eb32</a>",
-    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   },
   {
     "id": "github-anniversary-15",
